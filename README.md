@@ -3,6 +3,18 @@
 
 Welcome to the STM32 LIS2DW12 accelerometer sensor driver repository! This project focuses on creating a versatile driver for the LIS2DW12 accelerometer sensor using an STM32 microcontroller. The driver includes functionalities for measuring tilt angles, detecting free falls, and generating a signal on a single tap. Let's dive into the details.
 
+## Circuit Image
+![WhatsApp Görsel 2023-08-25 saat 22 32 23](https://github.com/TalhaTelli427/STM32_LIS2DW12_HAL/assets/132828233/95cef9f2-5065-4e97-be4b-b62aad254ae8)
+
+## Tilt Angle
+![ezgif-4-3217d18aa7](https://github.com/TalhaTelli427/STM32_LIS2DW12_HAL/assets/132828233/fb8d7893-70c9-46a9-b06a-020425b42537)
+
+## One Tap
+![ezgif-4-550cefc1d4](https://github.com/TalhaTelli427/STM32_LIS2DW12_HAL/assets/132828233/09368411-1fcc-42fe-9525-65fb60f8636e)
+
+## Free Fall
+![ezgif-4-55f8453ef8](https://github.com/TalhaTelli427/STM32_LIS2DW12_HAL/assets/132828233/6817abfd-7520-4300-8518-96115c8754e2)
+
 
 ## Features
 
